@@ -25,17 +25,18 @@ textarea{
   white-space: pre-wrap;
 }
 
-.time-block{
-  text-align: center;
-  border-radius: 15px;
-  background-color: lightblue;
+.time-block {
+  border-top: solid white 1px;
+}
+
+.textarea-active {
+  background-color: white;
 }
 
 .row {
   white-space: pre-wrap;
   height: 80px;
   border-top: 1px solid white;
-  width: 90%;
 }
 
 .hour {

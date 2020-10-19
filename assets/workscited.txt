@@ -1,0 +1,3 @@
+A special thanks to:
+
+br3t. (2017-Mar-3). "How to save the value of textarea to localstorage then display it in the same textarea", first answer. StackOverflow. Online: <https://stackoverflow.com/questions/42963091/how-to-save-the-value-of-textarea-to-localstorage-then-display-it-in-the-same-te?rq=1>
