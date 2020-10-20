@@ -14,7 +14,9 @@ function setSchedule(){
 
   addRealTime()
 
+  //incorporates real time impact on the page
   function addRealTime (){
+
     //remove all classes on page
     clearTimeClass()
 

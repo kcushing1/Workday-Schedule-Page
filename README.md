@@ -1,14 +1,21 @@
-# Workday-Schedule-Page
-HW#5
+## Workday-Schedule-Page
+HW#5: as functional single-day-by-hour planner, colorcoded to reflect real time
 
 ## Link to Deployed Site
 
+https://kcushing1.github.io/Workday-Schedule-Page/
 
-## Mock-Up
 
-The following animation demonstrates the application functionality:
+## General Appearance
 
-![day planner demo]("./assets/WorkDaySchedulerDemoHW5.mp4)
+![day planner image](assets/scheduleimage.jpg)
+
+
+## Demo
+
+The application functionality:
+
+![day planner demo](assets/WorkDaySchedulerDemoHW5.mp4)
 
 
 ## User Story
@@ -36,3 +43,10 @@ WHEN I click the save button for that time block
 THEN the text for that event is saved in local storage
 WHEN I refresh the page
 THEN the saved events persist
+```
+
+## Concepts Learned
+
+It was interesting to think about the logics of time and time comparison within javascript and to use moment.js (although it seems the general opinion of the internet is that it is being phased out of use). I enjoyed using moment, and found it relatively straightforward to employ.
+
+I also think I bettered my comfort using local storage, which is something I struggled with in the previous assignment. I found a post by br3t (see workscited.txt) that clicked my understanding.
