@@ -8,7 +8,7 @@ HW#5
 
 The following animation demonstrates the application functionality:
 
-![day planner demo](./###)
+![day planner demo]("./assets/WorkDaySchedulerDemoHW5.mp4)
 
 
 ## User Story
