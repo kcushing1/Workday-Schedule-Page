@@ -15,7 +15,7 @@ https://kcushing1.github.io/Workday-Schedule-Page/
 
 The application functionality:
 
-![day planner demo](./assets/WorkdayScheduler)
+![day planner demo](./assets/WorkdayScheduler.gif)
 
 
 ## User Story
