@@ -1,17 +1,12 @@
 ## Workday-Schedule-Page
-HW#5: a functional single-day-by-hour planner, colorcoded to reflect real time
+A functional single-day-by-hour planner, colorcoded to reflect real time
 
 ## Link to Deployed Site
 
 https://kcushing1.github.io/Workday-Schedule-Page/
 
 
-## General Appearance
-
-![day planner image](assets/scheduleimage.jpg)
-
-
-## Demo
+## Demonstration
 
 The application functionality:
 
