@@ -13,6 +13,9 @@ The application functionality:
 ![day planner demo](./assets/WorkdayScheduler.gif)
 
 
+## Tools Used
+JavaScript. HTML/CSS. jQuery. moment.js
+
 ## User Story
 
 ```
